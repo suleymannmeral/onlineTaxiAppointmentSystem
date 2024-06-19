@@ -1,7 +1,7 @@
 # Online Taxi Appointment System (Online Taksi Randevu Sistemi)
 This project created with PHP,Boostrap, SQL,Java Script HTML and CSS. (Bu Proje PHP Boostrap Java Script HTML Ve CSS İle Oluşturulmuştur.
 
-![ot1](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/2e714739-57ef-4db6-b409-c3faae0f0edf)
+![ot1](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/43fa436d-7d0a-4b4e-b81b-080c5691d5ae)
 
 
 Here we see the home page of our project. We can login the system, see the drivers and register the system. Also users can contact us with contact page. (Burada projemizin ana sayfasını görüyoruz. Sisteme giriş yapıp sürücüleri görebilir ve sisteme kayıt olabiliriz. Ayrıca kullanıcılar iletişim sayfasından bizimle iletişime geçebilirler.)
@@ -9,16 +9,17 @@ Here we see the home page of our project. We can login the system, see the drive
 
 
 
+![ot2](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/aebc6fdf-8d75-49a8-a310-d1628123856a)
 
-![ot2](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/6fdce261-bb11-49b2-829c-835ed16b91db)
 
 Here we can see the drivers with the most points.(Burada en çok puana sahip sürücüleri görebiliriz.)
 
-![ot3](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/36037d83-e02e-4b69-8246-d139f6b06956)
+![ot3](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/355209d7-0037-4222-802f-f029e878b88c)
+
 
 Users can login to system from login page.(Kullanıcılar sisteme giriş sayfasından giriş yapabilirler.)
+![ot4](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/a7a90e3f-6380-4376-890b-07bbd24da20e)
 
-![ot4](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/3ffc8d01-69c5-489e-8130-0a36d7647e4f)
 
 Users can register the system from Register Page.(Kullanıcılar sisteme Kayıt sayfasından kayıt olabilirler.)
 
