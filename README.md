@@ -22,28 +22,41 @@ Users can login to system from login page.(Kullanıcılar sisteme giriş sayfas�
 
 
 Users can register the system from Register Page.(Kullanıcılar sisteme Kayıt sayfasından kayıt olabilirler.)
+![ot5](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/e202537a-7b1c-457f-9051-20542a77fc5a)
 
-![ot5](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/81ce9a0b-af3d-4cc4-9cea-2b4f5c242a64)
 
 We can see all drivers on the Drivers page.(Sürücüler sayfasında tüm sürücüleri görebiliriz.)
 
-![ot6](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/1ceff88f-4f67-4dba-b3b6-ebc3a2306f14)
+![ot6](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/d54182ba-5a6c-4eb1-ad74-79365e656ec4)
 
 Users can send Feedback mail to Admin from contact page.(Kullanıcılar iletişim sayfasından Yönetici'ye Geri Bildirim postası gönderebilir.)
 
-![ot8](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/610c6fb5-e125-4494-b292-f1fd792fad31)
+![ot7](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/85358f37-b0c7-42fb-9e6b-ae9a61626cc0)
 
 
 
-![ot9](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/7da29a4f-9eae-4b79-a250-958caa3eff5c)
+![ot8](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/a4a749a8-065e-47da-9792-b6add5f71e3e)
 
-After user login, user can create a appointment and see the appointment's info. (Kullanıcı girişi yaptıktan sonra kullanıcı randevu oluşturabilir ve randevu bilgilerini görebilir.)
+![ot9](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/b3c97ed1-6680-4cc5-afbe-37e314523cea)
+![ot10](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/9d90ac63-4cec-4d5e-bfd6-e5dd4da18b68)
+![ot11](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/4d302bc8-9cda-40a6-a509-3b4fcb8d7ab5)
+![ot12](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/fa0c4e01-f0d3-43f9-b18e-f94abe842a82)
+![ot13](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/c252c02b-f452-491c-afe5-5597609ec847)
+![ot14](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/3c885413-d594-4f9a-8aa6-88377aa7ecb1)
+![ot15](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/d817411e-a0fd-445d-a9ff-e1ef5858ce29)
+![ot16](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/c081ddab-7f64-47b0-8451-ad855a5500ca)
+![ot17](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/e247fe00-27c0-4613-afe5-8ac4a2584700)
+![ot18](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/93aeac33-cc6c-4e80-8026-3aca1546a46d)
+![ot19](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/887508ae-7eb9-43f6-97d2-35c3b3a72939)
 
-![ot10](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/31901e97-b658-4415-a211-08fb1718fdfb)
 
-Appointment Create Page (Randevu Oluşturma)
 
-![ot11](https://github.com/suleymannmeral/onlineTaxiAppointmentSystem/assets/115658595/97493295-1162-4178-809e-831de97218a6)
+
+
+
+
+
+
 
 
 
